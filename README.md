@@ -166,3 +166,7 @@ Perth-Property-Insights/
 
 Anna Ott
 
+© 2026 Anna Ott
+
+This project is part of my personal data portfolio.  
+Please do not reuse, modify, or redistribute without permission.
